@@ -11,6 +11,7 @@ function writeCards(name3, value){
 writeCards(["Guadalupe", "Ollie", "Aki"], "surprise");
 
 
+
 let number10 = 10
 function countDown(number10){
     let i = 0
